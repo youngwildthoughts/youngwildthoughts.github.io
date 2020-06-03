@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ispiggya.github.io</id>
+    <id>https://xiezythomas.github.io</id>
     <title>是猪猪鸭</title>
-    <updated>2020-06-03T14:45:51.897Z</updated>
+    <updated>2020-06-03T14:54:41.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ispiggya.github.io"/>
-    <link rel="self" href="https://ispiggya.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiezythomas.github.io"/>
+    <link rel="self" href="https://xiezythomas.github.io/atom.xml"/>
     <subtitle>爱你鸭</subtitle>
-    <logo>https://ispiggya.github.io/images/avatar.png</logo>
-    <icon>https://ispiggya.github.io/favicon.ico</icon>
+    <logo>https://xiezythomas.github.io/images/avatar.png</logo>
+    <icon>https://xiezythomas.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 是猪猪鸭</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ispiggya.github.io/post/hello-gridea/</id>
-        <link href="https://ispiggya.github.io/post/hello-gridea/">
+        <id>https://xiezythomas.github.io/post/hello-gridea/</id>
+        <link href="https://xiezythomas.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
