@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ispiggya.github.io</id>
     <title>是猪猪鸭</title>
-    <updated>2020-06-05T01:10:05.801Z</updated>
+    <updated>2020-06-05T01:20:22.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ispiggya.github.io"/>
     <link rel="self" href="https://ispiggya.github.io/atom.xml"/>
-    <subtitle>&lt;a href=&quot;https://space.bilibili.com/404796475&quot; target=&quot;_blank&quot;&gt;Bilibili&lt;/a&gt;</subtitle>
+    <subtitle>你还可以在这里找到我：
+&lt;a href=&quot;https://space.bilibili.com/404796475&quot; target=&quot;_blank&quot;&gt;Bilibili&lt;/a&gt; | &lt;a href=&quot;https://mp.weixin.qq.com/s/AXy56yrwc_vEaCoNhVIJ5w&quot; target=&quot;_blank&quot;&gt;Wechat&lt;/a&gt; | &lt;a href=&quot;https://www.instagram.com&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;</subtitle>
     <logo>https://ispiggya.github.io/images/avatar.png</logo>
     <icon>https://ispiggya.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 是猪猪鸭</rights>
