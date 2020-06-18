@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ispiggya.github.io</id>
     <title>是猪猪鸭</title>
-    <updated>2020-06-18T08:32:45.562Z</updated>
+    <updated>2020-06-18T08:41:41.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ispiggya.github.io"/>
     <link rel="self" href="https://ispiggya.github.io/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>https://ispiggya.github.io/images/avatar.png</logo>
     <icon>https://ispiggya.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 是猪猪鸭</rights>
-    <entry>
-        <title type="html"><![CDATA[📕为你准备的一份书单]]></title>
-        <id>https://ispiggya.github.io/post/wei-ni-zhun-bei-de-yi-fen-shu-dan/</id>
-        <link href="https://ispiggya.github.io/post/wei-ni-zhun-bei-de-yi-fen-shu-dan/">
-        </link>
-        <updated>2020-06-18T08:23:02.000Z</updated>
-        <content type="html"><![CDATA[<p>小时候爱看书，是因为喜欢看里面的故事——小说、漫画、杂志··· ···<br>
-长大了爱看书，是因为发现里面隐藏了各种各样的人生密码——如何沟通、如何专注、如何了解自己的内心、如何改变自己错误的观念··· ···</p>
-<p>现代人不爱看书，一半是因为互联网时代爆炸式的娱乐干扰，难以短暂地静下心来看看文字；一半是因为义务教育阶段的“迫害”，</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[如何让学习的空气变得有趣起来]]></title>
         <id>https://ispiggya.github.io/post/ru-he-rang-xue-xi-de-kong-qi-bian-de-you-qu-qi-lai/</id>
