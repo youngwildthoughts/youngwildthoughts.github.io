@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
     <title>少年奇思录</title>
-    <updated>2020-07-16T01:27:43.619Z</updated>
+    <updated>2020-07-16T01:29:39.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 少年奇思录</rights>
     <entry>
-        <title type="html"><![CDATA[📃计划还是无计划, that's a problem]]></title>
+        <title type="html"><![CDATA[📃我不想列计划]]></title>
         <id>https://youngwildthoughts.github.io/post/plan/</id>
         <link href="https://youngwildthoughts.github.io/post/plan/">
         </link>
