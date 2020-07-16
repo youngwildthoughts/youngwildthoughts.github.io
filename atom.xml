@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
     <title>少年奇思录</title>
-    <updated>2020-07-16T13:38:54.342Z</updated>
+    <updated>2020-07-16T13:47:33.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://youngwildthoughts.github.io/images/avatar.png</logo>
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 少年奇思录</rights>
+    <entry>
+        <title type="html"><![CDATA[虚无主义 | 碎碎念]]></title>
+        <id>https://youngwildthoughts.github.io/post/Nihilism/</id>
+        <link href="https://youngwildthoughts.github.io/post/Nihilism/">
+        </link>
+        <updated>2020-07-16T13:44:07.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>对待生命你不妨大胆冒险一点, 因为好歹你要失去它。<br>
+——尼采</p>
+</blockquote>
+<h2 id="谈话">🚦谈话</h2>
+<p>今天和姨妈聊天，很特别地不再是聊那些家长里短，而是牵扯到有关舆论控制、言论自由、国家体制的话题。天知道我有多喜欢这些类型的话题，我可以和人一起聊很久很久。</p>
+<p>真的，可以很久很久、很激动很激动的那种。</p>
+<p>但是，姨妈跟我说，在看了那么多负面消息之后，她突然有一点不相信这个世界了的一切了，她感到现实充满了荒诞和滑稽，让人觉得有些难以忍受。她想了想，用了一个词——</p>
+<p><strong>「虚无主义」。</strong></p>
+<h2 id="惊讶">😮惊讶</h2>
+<p>我有点惊讶于姨妈的思想转变，这在长辈层次是很少见的，尤其是对于没有从事学术研究和很少阅读积累的那代人来说。</p>
+<p>我有一刹那的恍惚和失真，紧接着有点难过——我觉得对于现实失去信任和期待是一件很难过和遗憾的事情。无论如何，现实世界远比我们想象的要纷呈和美好，试着不参加旅游团、不沉浸于手机和攻略地去旅一次游，多试着和陌生人聊天，你就知道了。</p>
+<p><strong>嘿，我不是说把眼睛蒙起来，只让自己看到有阳光的那一面，而是即使在知道了这个世界既有美好、也有遗憾，既有精彩、也有黑暗的同时，依然能对这个世界抱有期待，依然能让自己充分体会那片刻的美好</strong>。</p>
+<h2 id="眺望">✨眺望</h2>
+<p>我想了想，我自己能做到吗？</p>
+<p>我不知道，可能其实连抱有这种理想的我自己，也无法做到100%的不虚无主义。我们活在现实之中，受到现实的制约，绝大多数人受到狭窄的阅读面和短浅见识的限制，更加无法走出这个笼子。但是··· ···</p>
+<p>这个世界或许不会再好，但是我们可以降低预期，远离媒体，多感受自然，多与人交谈，多阅读书籍。慢慢地，这个世界会变得不一样——</p>
+<p><strong>至少，在我们眼里开始有了变化。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✍用笔或键盘，发现更好的自己 | 藏宝图]]></title>
         <id>https://youngwildthoughts.github.io/post/WritingChoices/</id>
