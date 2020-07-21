@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
     <title>少年奇思录</title>
-    <updated>2020-07-19T03:12:47.600Z</updated>
+    <updated>2020-07-21T08:51:40.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 少年奇思录</rights>
     <entry>
-        <title type="html"><![CDATA[🔮夜晚恐惧症 | 碎碎念]]></title>
+        <title type="html"><![CDATA[🔮夜晚焦虑症]]></title>
         <id>https://youngwildthoughts.github.io/post/nightphobia/</id>
         <link href="https://youngwildthoughts.github.io/post/nightphobia/">
         </link>
@@ -40,7 +40,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔘虚无主义 | 碎碎念]]></title>
+        <title type="html"><![CDATA[🔘虚无主义]]></title>
         <id>https://youngwildthoughts.github.io/post/Nihilism/</id>
         <link href="https://youngwildthoughts.github.io/post/Nihilism/">
         </link>
@@ -66,7 +66,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✍用笔或键盘，发现更好的自己 | 藏宝图]]></title>
+        <title type="html"><![CDATA[✍用笔或键盘，发现更好的自己]]></title>
         <id>https://youngwildthoughts.github.io/post/WritingChoices/</id>
         <link href="https://youngwildthoughts.github.io/post/WritingChoices/">
         </link>
@@ -187,7 +187,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📃我不想列计划 | 碎碎念]]></title>
+        <title type="html"><![CDATA[📃我不想列计划]]></title>
         <id>https://youngwildthoughts.github.io/post/plan/</id>
         <link href="https://youngwildthoughts.github.io/post/plan/">
         </link>
