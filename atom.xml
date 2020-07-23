@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
     <title>少年奇思录</title>
-    <updated>2020-07-22T01:20:05.495Z</updated>
+    <updated>2020-07-23T23:17:18.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://youngwildthoughts.github.io/images/avatar.png</logo>
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 少年奇思录</rights>
+    <entry>
+        <title type="html"><![CDATA[三权分立与自律]]></title>
+        <id>https://youngwildthoughts.github.io/post/san-quan-fen-li/</id>
+        <link href="https://youngwildthoughts.github.io/post/san-quan-fen-li/">
+        </link>
+        <updated>2020-07-23T02:06:44.000Z</updated>
+        <content type="html"><![CDATA[<p>三权分立是一个很有意思的发明。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📅2020年中回忆录]]></title>
+        <id>https://youngwildthoughts.github.io/post/mid-2020memoir/</id>
+        <link href="https://youngwildthoughts.github.io/post/mid-2020memoir/">
+        </link>
+        <updated>2020-07-22T01:41:23.000Z</updated>
+        <content type="html"><![CDATA[<p>狭义相对论最普世的例子，就是时间流逝给人的不同感受。</p>
+<p>和讨厌的人、无聊的人在一起，做讨厌的事、无聊的事，没有目标地学习，没有期待地生活，时间就像被人吐到地上的那颗口香糖一样，又黏腻，又甩不掉，又令人作呕。</p>
+<p>和喜欢的人在一起，做喜欢的事，怀有目标地学习，充满期待地生活，时间就像暴雨后又经历暴晒的水滴，才酣畅淋漓地滋润万物不久，就被迫在猛烈的日光中蒸发殆尽，消失得无影无踪。</p>
+<hr>
+<p>不过，信息时代有一个弊端，就是人类会把「给予自己强烈快感的事」和「自己喜欢的事」混淆，以致于沉浸在前者而无法自拔。打游戏、看电视剧往往属于前者，绘画、写作、运动等往往属于后者。快感这回事，跟多巴胺密切相关，已经有无数学者醉心研究这个让人感到快乐的化学物质，这里就按下不表了。</p>
+<p>喜欢这回事，就复杂得多了。在喜欢这回事上，「因人而异」是最政治正确的话语。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😑形式主义的遮羞布]]></title>
         <id>https://youngwildthoughts.github.io/post/superficial/</id>
