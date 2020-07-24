@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
     <title>YoungWildThoughts</title>
-    <updated>2020-07-24T01:53:19.970Z</updated>
+    <updated>2020-07-24T07:53:14.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
-    <subtitle>嘿，旅程本身即是奖赏！</subtitle>
+    <subtitle>少年奇思录</subtitle>
     <logo>https://youngwildthoughts.github.io/images/avatar.png</logo>
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YoungWildThoughts</rights>
