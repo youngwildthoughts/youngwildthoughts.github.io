@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
-    <title>少年奇思录</title>
-    <updated>2020-07-24T01:22:30.148Z</updated>
+    <title>YoungWildThoughts</title>
+    <updated>2020-07-24T01:29:11.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
     <subtitle>嘿，旅程本身即是奖赏！</subtitle>
     <logo>https://youngwildthoughts.github.io/images/avatar.png</logo>
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 少年奇思录</rights>
+    <rights>All rights reserved 2020, YoungWildThoughts</rights>
     <entry>
         <title type="html"><![CDATA[✍用笔或键盘，发现更好的自己]]></title>
         <id>https://youngwildthoughts.github.io/post/WritingChoices/</id>
