@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youngwildthoughts.github.io</id>
-    <title>YoungWildThoughts</title>
-    <updated>2020-09-23T02:54:44.270Z</updated>
+    <title>桌沿奇思</title>
+    <updated>2020-09-23T03:03:29.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youngwildthoughts.github.io"/>
     <link rel="self" href="https://youngwildthoughts.github.io/atom.xml"/>
-    <subtitle>少年奇思录</subtitle>
+    <subtitle>爱你鸭</subtitle>
     <logo>https://youngwildthoughts.github.io/images/avatar.png</logo>
     <icon>https://youngwildthoughts.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, YoungWildThoughts</rights>
+    <rights>All rights reserved 2020, 桌沿奇思</rights>
     <entry>
         <title type="html"><![CDATA[✍用笔或键盘，发现更好的自己]]></title>
         <id>https://youngwildthoughts.github.io/post/WritingChoices/</id>
